@@ -112,7 +112,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-moham--mad2026-181717?style=for-the-badge&logo=github)](https://github.com/moham-mad2026)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mpourkazemi8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpourkazemi8@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohammadShoon)
 
 </div>
