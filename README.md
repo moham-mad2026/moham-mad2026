@@ -69,7 +69,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=moham-mad2026&theme=tokyonight&no-frame=true)
+![Trophies](https://github-profile-trophy-fork-two.vercel.app/?username=moham-mad2026&theme=tokyonight&no-frame=true&margin-w=4)
 
 </div>
 
