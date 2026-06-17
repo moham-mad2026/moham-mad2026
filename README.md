@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&text=Mohammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20React%20%7C%20ML%20Enthusiast&descSize=20&descAlignY=56)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&text=Mohammad&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20React&descSize=20&descAlignY=56)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=550&lines=Python+%26+React+Developer;Machine+Learning+Enthusiast;Computer+Science+Student;Always+Learning+New+Things)](https://git.io/typing-svg)
+<!--%20%7C%20ML%20Enthusiast-->
+
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=550&lines=Python+%26+React+Developer;Machine+Learning+Enthusiast;Computer+Science+Student;Always+Learning+New+Things)](https://git.io/typing-svg) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=moham-mad2026&color=667eea&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -13,10 +15,10 @@
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student passionate about software development
-- 🤖 Focused on **Machine Learning** and **NLP / LLM**
+<!-- - 🤖 Focused on **Machine Learning** and **NLP / LLM** -->
 - ⚛️ Building web apps with **React** & **Node.js**
 - 🔨 Currently building: **React multi-page app** (Login · OTP · Profile)
-- 🌱 Currently learning: **Docker** & building APIs from scratch
+- 🌱 Currently learning: **TypeScript** & building APIs from scratch
 - 🏆 Achievements: Quickdraw · YOLO · Pull Shark
 
 ---
@@ -65,7 +67,7 @@
 
 ---
 
-## 🏆 Trophies
+<!-- ## 🏆 Trophies
 
 <div align="center">
 
@@ -73,7 +75,7 @@
 
 </div>
 
----
+--- -->
 
 <!-- ## 📈 Activity Graph -->
 
@@ -110,7 +112,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-moham--mad2026-181717?style=for-the-badge&logo=github)](https://github.com/moham-mad2026)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpourkazemi8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mpourkazemi8@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-@username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MohammadShoon)
 
 </div>
