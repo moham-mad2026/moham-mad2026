@@ -69,13 +69,13 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=moham-mad2026&theme=tokyonight&no-frame=true&margin-w=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=moham-mad2026&theme=tokyonight&no-frame=true)
 
 </div>
 
 ---
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph -->
 
 <!-- <div align="center">
 
