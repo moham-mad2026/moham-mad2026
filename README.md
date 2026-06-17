@@ -77,7 +77,7 @@
 
 ## 📈 Activity Graph
 
-<div align="center">
+<!-- <div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moham-mad2026&theme=tokyo-night&hide_border=true)
 
@@ -93,7 +93,7 @@
 
 </div>
 
----
+--- -->
 
 ## 💬 Dev Quote
 
